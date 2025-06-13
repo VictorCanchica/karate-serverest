@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Maria QA",
+    "email": "maria.manzana@example.com",
+    "password": "abc123",
+    "administrador": "false"
+  },
+  {
+    "nome": "Usuario Editado",
+    "email": "editado@email.com",
+    "password": "1234",
+    "administrador": "false"
+  }
+]
