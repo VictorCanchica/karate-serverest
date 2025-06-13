@@ -9,3 +9,4 @@ Scenario: Eliminar usuario existente
   When method delete
   Then status 200
   And match response.message == "Registro excluído com sucesso"
+

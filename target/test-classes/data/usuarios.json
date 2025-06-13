@@ -1,13 +1,13 @@
 [
   {
     "nome": "Maria QA",
-    "email": "maria.manzana@example.com",
+    "email": "VICTORQA@example.com",
     "password": "abc123",
     "administrador": "false"
   },
   {
     "nome": "Usuario Editado",
-    "email": "editado@email.com",
+    "email": "VICTORQA123@email.com",
     "password": "1234",
     "administrador": "false"
   }
